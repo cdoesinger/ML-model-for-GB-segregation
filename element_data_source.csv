@@ -1,0 +1,22 @@
+E_ref_0                        publish via NOMAD
+E_ref_6                        publish via NOMAD
+E_ref_9                        publish via NOMAD
+E_ref_10                       publish via NOMAD
+E_coh_MP                       doi:10.1063/1.4812323
+orbital_radius                 doi:10.1063/1.1695904
+Mendeleev_P84                  doi:10.1016/0038-1098(84)90765-8
+Mendeleev_P88                  doi:10.1179/mst.1988.4.8.675
+Mendeleev_V04                  doi:10.1016/j.jallcom.2003.08.060
+Vol_perAtom_MatProj            doi:10.1063/1.4812323
+E_coh_Kittel                   C. Kittel. Introduction to solid state physics. John Wiley & sons, inc, 2005
+atom_number                    
+atom_weight                    
+metling_Temperature            
+atom_column                    
+atom_row                       
+Electronegativity_Pauling      L. Pauling. The Nature of the Chemical Bond and the Structure of Molecules and Crystals: An Introduction to Modern Structural Chemistry. George Fisher Baker Non-Resident Lecture Series. Cornell University Press
+N_elctrons_sVal                
+N_elctrons_pVal                
+N_elctrons_dVal                
+N_elctrons_Val                 
+Vol_perAtom_MatMiner           doi:10.1038/npjcompumats.2016.28, doi: 10.1016/j.commatsci.2018.05.018
